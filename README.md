@@ -1,1 +1,2 @@
 # TradeBot
+TEST ONLY
